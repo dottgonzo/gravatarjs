@@ -1,0 +1,25 @@
+{
+  "name": "gravatarjs",
+  "version": "0.0.1",
+  "description": "gravatarjs",
+  "main": "gravatar.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottgonzo/gravatarjs.git"
+  },
+  "keywords": [
+    "gravatar"
+  ],
+  "author": "Dario Caruso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/gravatarjs/issues"
+  },
+  "homepage": "https://github.com/dottgonzo/gravatarjs#readme"
+}
