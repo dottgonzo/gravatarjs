@@ -1,7 +1,7 @@
 {
-  "name": "gravatarjs",
+  "name": "gravatarwebjs",
   "version": "0.0.1",
-  "description": "gravatarjs",
+  "description": "gravatarwebjs",
   "main": "gravatar.js",
   "directories": {
     "test": "test"
